@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### I'm a passionate Front-end Developer with one + year of professional experience, based in Poznań, Poland. 
+#### I'm Mikołaj - a passionate Front-end Developer with one + year of professional experience, based in Poznań, Poland. 
 #### Second year IT studies at Adam Mickiewicz University, Poznań.
 
 ## Tech-stack

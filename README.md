@@ -5,7 +5,7 @@
 
 ## Tech-stack
 
-- 💻 React | Next | Typescript
+- 💻 React | Next | Typescript | Javascript
 - 💅 HTML5 | CSS3 | SASS | TailwindCSS
 - 💾 MongoDB | PostgreSQL
 

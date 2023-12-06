@@ -1,13 +1,14 @@
 ## Hi there 👋
 
-#### I'm Mikołaj - a passionate Front-end Developer with one + year of professional experience, based in Poznań, Poland. 
-#### Second year IT studies at Adam Mickiewicz University, Poznań.
+#### 💻 I'm a full-stack JS developer (with ~2 years of professional experience) and an extramural 3rd-year computer science student, passionate about the ever-evolving world of technology, web development, and UX-UI design. 
+#### 🔍 Constantly seeking the latest innovations and embracing new challenges with open arms.
 
 ## Tech-stack
 
-- 💻 React | Next | Typescript | Javascript
-- 💅 HTML5 | CSS3 | SASS | TailwindCSS
+- 💻 React | Next | Node+Express | Typescript | Javascript | GraphQL | REST | GIT | Playwright
+- 💅 HTML5 | CSS3 | TailwindCSS | Bootstrap
 - 💾 MongoDB | PostgreSQL
+- 🔨 Figma | Photoshop
 
 ## Contact
 

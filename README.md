@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### 💻 I'm a full-stack JS developer (with ~2 years of professional experience) and an extramural 3rd-year computer science student, passionate about the ever-evolving world of technology, web development, and UX-UI design. 
+#### 💻 I'm a full-stack React developer (with ~3 years of professional experience) and an extramural 4th-year computer science student, passionate about the ever-evolving world of technology, web development, and UX-UI design. 
 #### 🔍 Constantly seeking the latest innovations and embracing new challenges with open arms.
 
 ## Tech-stack

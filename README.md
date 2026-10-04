@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### 💻 I'm a full-stack developer (with 3.5+ years of professional experience), passionate about the ever-evolving world of technology, web development, and UX-UI design. 
+#### 💻 I'm a full-stack developer (with 4.5+ years of professional experience), passionate about the ever-evolving world of technology, web development, and UX-UI design. 
 #### 🔍 Constantly seeking the latest innovations and embracing new challenges with open arms.
 
 ## Tech-stack
